@@ -2,7 +2,7 @@
 
 **Objectifs
 L’objectif de ce TP sera de réaliser plusieurs exercices sur le
-développement de shell script.
+développement de shell script.**
 
 **Exercice 1 :**
 Réaliser le script respectant les règles suivantes :
