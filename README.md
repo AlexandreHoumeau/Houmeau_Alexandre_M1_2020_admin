@@ -64,12 +64,14 @@ Ecrire un script capable de créer ou de supprimer un fichier.
 existe.
   * Avant de supprimer un fichier, le script doit d'abord vérifier si le fichier
 existe.
+
 **Exercice 8 :**
 Ecrire un script capable de modifier les droits de propriété sur un fichier.
 Avant de modifier les propriétés sur un fichier, le script doit vérifier qu'il
 existe bien.
 Le script doit demander le nom du nouvel utilisateur et du nouveau groupe
 propriétaires.
+
 **Exercice 9 :**
 Ecrire un script capable de modifier les droits sur le fichier entré par
 l'utilisateur, du propriétaire, du groupe, et des autres.
