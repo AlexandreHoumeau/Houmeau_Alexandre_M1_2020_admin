@@ -3,7 +3,8 @@
 **Objectifs
 L’objectif de ce TP sera de réaliser plusieurs exercices sur le
 développement de shell script.
-Exercice 1 :**
+
+**Exercice 1 :**
 Réaliser le script respectant les règles suivantes :
   * Script auquel on passe en argument une liste de fichiers.
   * Le script va d'abord vérifier que l'utilisateur a bien saisi des
